@@ -92,7 +92,7 @@ def removeValue(sampleList, val):
 resList = removeValue(list1, 20)
 print(resList)
 ```
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 ## Question 7 - Remove Duplicates
 
 ```python
@@ -128,7 +128,7 @@ def oddones(l):
 
 oddones([1, 1, 2, 3, 3, 3])
 ```
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 # Tuples
 
 ## Question 9 - Fractions
