@@ -46,6 +46,7 @@ find_freq([5, 10, 2, 5, 50, 5, 10, 1, 2, 2])
 list1 = list(map(int, input().split()))
 print([x**5 for x in list1])
 ```
+<br /><br /><br />
 
 ## Question 4 - To the left
 
@@ -91,7 +92,7 @@ def removeValue(sampleList, val):
 resList = removeValue(list1, 20)
 print(resList)
 ```
-
+<br /><br /><br /><br />
 ## Question 7 - Remove Duplicates
 
 ```python
@@ -127,7 +128,7 @@ def oddones(l):
 
 oddones([1, 1, 2, 3, 3, 3])
 ```
-
+<br /><br /><br /><br /><br /><br /><br /><br />
 # Tuples
 
 ## Question 9 - Fractions
@@ -181,7 +182,7 @@ def closest(point1, point2):
 
 print(closest((3, 0), (0, 4)))
 ```
-
+<br /><br /><br /><br /><br />
 ### Question 10c - Farthest
 
 ```python
